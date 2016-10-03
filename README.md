@@ -38,6 +38,11 @@ The `input` directory contains the data specified in the challenge;
 `input/arrow` is the input in the example; `input/dictionary` was obtained
 from `https://dl.dropboxusercontent.com/u/14065136/dictionary.txt`
 
+## Final Solution
+
+The final solution lives in `output/dictionary_words` and
+`output/dictionary_sequences`.
+
 ## Development
 
 To watch/run specs in development, just run `guard`.
